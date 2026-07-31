@@ -56,13 +56,6 @@ Raw data files are not stored directly in this repository because of file size a
 
 ![Mortgage approval geographic context dashboard](visuals/dashboard_3_geographic_context.png)
 
-Dashboard screenshots will be added in the `visuals/` folder.
-
-Planned visuals:
-
-* Dashboard 1: Approval patterns by state and applicant group
-* Dashboard 2: Approval differences by income and property type
-* Dashboard 3: Geographic and income context view
 
 ## Limitations
 
