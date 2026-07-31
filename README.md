@@ -17,5 +17,5 @@ Finance-trained data and analytics professional focused on turning complex busin
 
 ## Links
 - Resume: [link]
-- LinkedIn: [link]
+- LinkedIn: https://www.linkedin.com/in/ryanwenstrom/
 - Portfolio Website: [link]
