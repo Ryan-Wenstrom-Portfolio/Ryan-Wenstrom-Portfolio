@@ -44,6 +44,18 @@ Raw data files are not stored directly in this repository because of file size a
 
 ## Visuals
 
+### Dashboard 1: Overview
+
+![Mortgage approval overview dashboard](visuals/dashboard_1_overview.png)
+
+### Dashboard 2: Subgroup Analysis
+
+![Mortgage approval subgroup analysis dashboard](visuals/dashboard_2_subgroup_analysis.png)
+
+### Dashboard 3: Geographic Context
+
+![Mortgage approval geographic context dashboard](visuals/dashboard_3_geographic_context.png)
+
 Dashboard screenshots will be added in the `visuals/` folder.
 
 Planned visuals:
