@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ryan Wenstrom
 
-<!--
-**Ryan-Wenstrom-Portfolio/Ryan-Wenstrom-Portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance-trained data and analytics professional focused on turning complex business, financial, and operational data into clear analysis, decision tools, and recommendations.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Financial analytics and investment research
+- SQL, Python, Tableau, and Power BI
+- Data cleaning, validation, and dashboarding
+- Business intelligence and executive decision support
+- Applied analytics in finance, real estate, credit, and sports
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Mortgage Approval Analytics
+- SQL Analytics & Data Engineering Case Studies
+- NBA Player Role Explorer
+- NASDAQ Graph Risk Analytics
+
+## Links
+- Resume: [link]
+- LinkedIn: [link]
+- Portfolio Website: [link]
