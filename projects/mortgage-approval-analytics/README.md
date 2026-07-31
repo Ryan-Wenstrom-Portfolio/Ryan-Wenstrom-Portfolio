@@ -44,18 +44,27 @@ Raw data files are not stored directly in this repository because of file size a
 
 ## Visuals
 
-### Dashboard 1: Overview
+### Dashboard 1: Mortgage Overview
 
-![Mortgage approval overview dashboard](visuals/dashboard_1_overview.png)
+<img src="visuals/dashboard_1_overview.png" alt="Mortgage overview dashboard" width="900">
 
-### Dashboard 2: Subgroup Analysis
+Provides a high-level summary of the mortgage application dataset, including overall approval rate, average loan amount, applicant income, loan-to-income ratio, and approval rates by state. Interactive filters allow users to compare results across applicant demographics and property types.
 
-![Mortgage approval subgroup analysis dashboard](visuals/dashboard_2_subgroup_analysis.png)
+---
 
-### Dashboard 3: Geographic Context
+### Dashboard 2: Applicant and Property Analysis
 
-![Mortgage approval geographic context dashboard](visuals/dashboard_3_geographic_context.png)
+<img src="visuals/dashboard_2_subgroup_analysis.png" alt="Mortgage subgroup dashboard" width="900">
 
+Explores how approval rates vary across race-gender groups, applicant income groups, and property types. The dashboard highlights meaningful differences between applicant segments while remaining descriptive rather than causal.
+
+---
+
+### Dashboard 3: Income Relative to Area
+
+<img src="visuals/dashboard_3_geographic_context.png" alt="Mortgage income relationship dashboard" width="900">
+
+Examines the relationship between applicant income relative to area median income and mortgage approval rates. A trend line helps visualize the overall relationship while interactive filters allow comparisons across states, demographics, and property types.
 
 ## Limitations
 
