@@ -1,0 +1,20 @@
+# Python environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Local credentials
+.env
+
+# Raw and generated data
+data/raw/*
+data/processed/*
+
+# Keep the folders in GitHub
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Tableau and operating-system files
+*.hyper
+Thumbs.db
+.DS_Store
