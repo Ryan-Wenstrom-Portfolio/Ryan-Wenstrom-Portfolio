@@ -10,9 +10,9 @@ Finance-trained data and analytics professional focused on turning complex busin
 - Applied analytics in finance, real estate, credit, and sports
 
 ## Featured Projects
-- Mortgage Approval Analytics
+- [Mortgage Approval Analytics](https://github.com/Ryan-Wenstrom-Portfolio/mortgage-approval-analytics) — End-to-end analysis of 3.8 million HMDA mortgage records using Python, DuckDB, SQL, and Tableau.
+- [NBA Player Role Analytics](https://github.com/Ryan-Wenstrom-Portfolio/nba-player-role-analytics) — Interactive D3 application exploring NBA player roles, roster composition, and team context.
 - SQL Analytics & Data Engineering Case Studies
-- NBA Player Role Explorer
 - NASDAQ Graph Risk Analytics
 
 ## Links
