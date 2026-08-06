@@ -1,21 +1,40 @@
-# Ryan Wenstrom
+﻿# Ryan Wenstrom
 
-Finance-trained data and analytics professional focused on turning complex business, financial, and operational data into clear analysis, decision tools, and recommendations.
-
-## Focus Areas
-- Financial analytics and investment research
-- SQL, Python, Tableau, and Power BI
-- Data cleaning, validation, and dashboarding
-- Business intelligence and executive decision support
-- Applied analytics in finance, real estate, credit, and sports
+Finance-trained analytics professional completing a Master of Information and Data Science at UC Berkeley. I build reproducible data pipelines, interactive dashboards, and decision-support tools for finance, real estate, credit, and business analytics.
 
 ## Featured Projects
-- [Mortgage Approval Analytics](https://github.com/Ryan-Wenstrom-Portfolio/mortgage-approval-analytics) — End-to-end analysis of 3.8 million HMDA mortgage records using Python, DuckDB, SQL, and Tableau.
-- [NBA Player Role Analytics](https://github.com/Ryan-Wenstrom-Portfolio/nba-player-role-analytics) — Interactive D3 application exploring NBA player roles, roster composition, and team context.
-- SQL Analytics & Data Engineering Case Studies
-- NASDAQ Graph Risk Analytics
 
-## Links
-- Resume: [link]
-- LinkedIn: https://www.linkedin.com/in/ryanwenstrom/
-- Portfolio Website: [link]
+### Mortgage Approval Analytics
+
+End-to-end analysis of 3.8 million public HMDA mortgage records across California, Illinois, Michigan, and Texas. Built a reproducible Python, DuckDB, and SQL pipeline and published three interactive Tableau dashboards.
+
+- [View the repository](https://github.com/Ryan-Wenstrom-Portfolio/mortgage-approval-analytics)
+- [Open the Tableau dashboard](https://public.tableau.com/views/MortgageApprovalAnalytics2017HMDA/MortgageMarketOverview)
+
+### NBA Player Role Analytics
+
+Interactive analytics application for exploring NBA player roles, roster composition, statistical similarity, and team context beyond traditional points-per-game comparisons.
+
+- [View the repository](https://github.com/Ryan-Wenstrom-Portfolio/nba-player-role-analytics)
+- Built with Python, pandas, Flask, JavaScript, D3.js, and GitHub Pages
+
+## Technical Skills
+
+**Data and Programming:** Python, SQL, DuckDB, pandas, R  
+**Visualization and BI:** Tableau, Power BI, D3.js, Excel  
+**Development:** Flask, JavaScript, Git, GitHub, VS Code  
+**Finance and Analytics:** Financial modeling, investment analysis, credit analysis, real estate underwriting, forecasting, and business intelligence
+
+## Background
+
+- Master of Information and Data Science, UC Berkeley - Expected December 2026
+- B.S. Business Administration, Finance, Cal Poly San Luis Obispo
+- Minor in Real Property Development
+- Summa Cum Laude
+- Experience in real estate investment, financial-services analytics, and property credit
+
+Additional SQL, graph analytics, and graduate capstone projects are currently in development.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ryanwenstrom/)
