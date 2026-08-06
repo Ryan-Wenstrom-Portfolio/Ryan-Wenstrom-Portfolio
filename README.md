@@ -16,7 +16,7 @@ End-to-end analysis of 3.8 million public HMDA mortgage records across Californi
 Interactive analytics application for exploring NBA player roles, roster composition, statistical similarity, and team context beyond traditional points-per-game comparisons.
 
 - [View the repository](https://github.com/Ryan-Wenstrom-Portfolio/nba-player-role-analytics)
-- Built with Python, pandas, Flask, JavaScript, D3.js, and GitHub Pages
+- Built with Python, pandas, Flask, JavaScript, and D3.js
 
 ## Technical Skills
 
