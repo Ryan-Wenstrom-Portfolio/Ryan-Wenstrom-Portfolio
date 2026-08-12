@@ -2,6 +2,10 @@
 
 Finance-trained analytics professional completing a Master of Information and Data Science at UC Berkeley. I build reproducible data pipelines, interactive dashboards, and decision-support tools across finance, credit, business analytics, and data engineering.
 
+**Portfolio:** https://ryan-wenstrom-portfolio.github.io
+
+**LinkedIn:** https://www.linkedin.com/in/ryanwenstrom/
+
 ## Featured Projects
 
 ### Mortgage Approval Analytics
