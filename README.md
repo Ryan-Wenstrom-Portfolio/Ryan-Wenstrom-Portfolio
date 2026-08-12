@@ -30,7 +30,7 @@ Interactive analytics application for exploring NBA player roles, roster composi
 Graph analytics project that converts historical stock-return correlations into a Neo4j network and evaluates connected components, degree centrality, weighted and unweighted PageRank, and threshold sensitivity.
 
 - [View the repository](https://github.com/Ryan-Wenstrom-Portfolio/neo4j-stock-network-analysis)
-- [View the interactive network](https://github.com/Ryan-Wenstrom-Portfolio/neo4j-stock-network-analysis/blob/main/visuals/correlation_network_interactive.html)
+- [View the network visualization](https://github.com/Ryan-Wenstrom-Portfolio/neo4j-stock-network-analysis/blob/main/visuals/correlation_network.png)
 
 ## Technical Skills
 
